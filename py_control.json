@@ -1,8 +1,8 @@
 {
 	"message": "success",
 	"wr_tts": {
-		"control": true,
-		"warn": "这是脚本提示信息"
+		"control": false,
+		"warn": "这是脚本提示信息,你不能用这个程序，抱歉"
 	},
 	"qf_qq": {
 		"control": true,
