@@ -1,0 +1,11 @@
+{
+	"message": "success",
+	"wr_tts": {
+		"control": true,
+		"tips": "这是脚本提示信息"
+	},
+	"qf_qq": {
+		"control": true,
+		"tips": "这是脚本提示信息"
+	}
+}
