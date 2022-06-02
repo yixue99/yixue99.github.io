@@ -3,7 +3,7 @@
 	"wr_tts": {
 		"control": true,
 		"password": "yixue99",
-		"warn": "来源：https://github.com/skygongque/tts/tree/main/python_cli_demo author：skygongque \n此脚本仅限学习交流，如有侵权，请联系作者删除（公众号：pink1pig， Email:sd35@foxmail.com)\nThis script is only for learning and communication. In case of infringement, please contact the author to delete it (official account: pink1pig, email: sd35@foxmail.com ）"
+		"warn": "program code:https://github.com/skygongque/tts/tree/main/python_cli_demo author:skygongque \n此脚本仅限学习交流，如有侵权，请联系作者删除（公众号：pink1pig， Email:sd35@foxmail.com)\nThis script is only for learning and communication. In case of infringement, please contact the author to delete it (official account: pink1pig, email: sd35@foxmail.com ）"
 	},
 	"qf_qq": {
 		"control": true,
